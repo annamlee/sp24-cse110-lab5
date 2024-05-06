@@ -1,6 +1,7 @@
 # Lab 5 - Anna Lee
-Expose: 
-Explore: 
+Expose: https://annamlee.github.io/sp24-cse110-lab5/expose.html
+
+Explore: https://annamlee.github.io/sp24-cse110-lab5/explore.html
 
 ## Pt 3. Unit Testing with Jest
 1. I would not use unit testing to test the "message" feature of a messaging application because this is a complex feature that involves writing and sending a message to another user. There are probably multiple interconnected functions, so comprehensive tests would have to test interactions between different components of the code, which unit testing is not for.
